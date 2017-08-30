@@ -1,0 +1,1 @@
+Scripts in this dir are used by jobs in Jenkins.  They are stored in `/var/jenkins_home/scripts` directory.
